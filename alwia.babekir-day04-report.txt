@@ -1,0 +1,699 @@
+    1  pwd
+    2  ls
+    3  mkdir Yaya
+    4  cd Yaya
+    5  touch quadratic.sh
+    6  open quadratic.sh 
+    7  cd Desktop
+    8  pwd
+    9  ls
+   10  cd Desktop
+   11  mkdir IntroCl
+   12  open IntroCL
+   13  cd IntroCL
+   14  pwd
+   15  ls
+   16  cd Desktop
+   17  mkdir IntroCL
+   18  cd IntroCL
+   19  mkdir Linux
+   20  mkdir Latex
+   21  mkdir R
+   22  cd Linux
+   23  touch script.sh
+   24  nano script.sh
+   25  chmod tx script.sh
+   26  chmod +x script.sh
+   27  ./script.sh
+   28  nano script.sh
+   29  source script.sh
+   30  nano script.sh
+   31  add_int
+   32  nano script.sh
+   33  add_int
+   34  nano script.sh
+   35  source script.sh
+   36  add_int
+   37  nano script.sh
+   38  pwd
+   39  ls
+   40  cd Linux
+   41  cd Desktop
+   42  cd Linux
+   43  cat--Help
+   44  cat_Help
+   45  -help
+   46  cat-help
+   47  pwd
+   48  cat-help
+   49  cd Desktop
+   50  cd IntroCL
+   51  cd Linux
+   52  cat-help
+   53  cd Desktop
+   54  ls
+   55  cd IntroCL
+   56  cd Linux
+   57  touch s4.script
+   58  nano s4.sh
+   59  ls
+   60  nano s4.sh
+   61  chmod+x
+   62  chmod +x s4.sh
+   63  ./s4.sh
+   64  nano s4.sh
+   65  chmod +x s4.sh
+   66  ./s4.sh
+   67  nano s4.sh
+   68  chmod +x s4.sh
+   69  ./s4.sh
+   70  open random_number.txt
+   71  chmod +x s4.sh
+   72  ./s4.sh
+   73  open random_number.txt
+   74  chmod +x s4.sh
+   75  ./s4.sh
+   76  nano s4.sh
+   77  chmod +x s4.sh
+   78  .s4.sh
+   79  ./s4.sh
+   80  wc -l random_number.txt
+   81  nano s4.sh
+   82  chmod +x s4.sh
+   83  ./s4.sh
+   84  nano s4.sh
+   85  chmod +x s4.sh
+   86  nano s4.sh
+   87  chmod +x s4.sh
+   88  ./s4.sh
+   89  nano s4.sh
+   90  chmod +x s4.sh
+   91  ./s4.sh
+   92  nano s4.sh
+   93  chmod +x s4.sh
+   94  ./s4.sh
+   95  nano s4.sh
+   96  chmod +x s4.sh
+   97  ./s4.sh
+   98  nano s4.sh
+   99  chmod +x s4.sh
+  100  ./s4.sh
+  101  nano s4.sh
+  102  chmod +x s4.sh
+  103  nano s4.sh
+  104  chmod +x s4.sh [A
+  105  ./s4.sh
+  106  nano s4.sh
+  107  chmod +x s4.sh
+  108  ./s4.sh
+  109  nano s4.sh
+  110  grep "[5-6] random_number.txt
+  111  2
+  112  nano s4.sh
+  113  nano s4.sh
+  114  [200~guest@sudan:~/Desktop/IntroCL/Linux$~
+  115  grep "[5-6]" random_number.txt
+  116  wc -l
+  117  wc -l random_number.txt
+  118  ls
+  119  cd Desktop
+  120  ./s4.sh
+  121  exit
+  122  cd Desktop
+  123  cd IntroCL
+  124  cd Linux
+  125  nano.sh
+  126  s4.sh
+  127  ls
+  128  nano s4.sh
+  129  pwd
+  130  ls
+  131  cd Desktop
+  132  cd IntroCL
+  133  cd Linux
+  134  nano script.sh
+  135  source script.sh
+  136  nano script.sh
+  137  chmod +x script.sh
+  138  ./script.sh
+  139  nano script.sh
+  140  chmod +x script.sh
+  141  ./script.sh
+  142  nano script.sh
+  143  source script.sh
+  144  nano script.sh
+  145  source script.sh
+  146  Quad_roots
+  147  nano script.sh
+  148  source script.sh
+  149  Quad_roots
+  150  nano script.sh
+  151  pwd
+  152  ls
+  153  cd Desktop
+  154  cd IntroCL
+  155  cd Linux
+  156  nano.sh
+  157  mkdir -p $1
+  158  cd $1
+  159  touch new.txt
+  160  pwd
+  161  ls
+  162  cd Desktop/
+  163  pwd
+  164  mkdir Icl
+  165  cd ICL
+  166  cd IcL
+  167  cd Icl
+  168  mkdir linux R Latex
+  169  history
+  170  exit
+  171  rm
+  172  cd Icl
+  173  cd..
+  174  cd ..
+  175  rm R
+  176  CD ..
+  177  cd ..
+  178  rm Icl
+  179  cd Icl
+  180  rmdir R
+  181  LS
+  182  ls
+  183  clear
+  184  mkdir R
+  185  CD LINUX
+  186  cd linux
+  187  touth day1_commands.txt
+  188  touch day1_commands.txt
+  189  cd ..
+  190  cd linux
+  191  history >> day1_commands
+  192  history >> day1_commands.txt
+  193  mv day1_commands.txt latex
+  194  mvlinux/ day1_commands.txt latex
+  195  mv linux/ day1_commands.txt latex
+  196  mv linux/ day1_commands.txt Latex
+  197  cd ..
+  198  mv linux/day1_commands.txt Latex/
+  199  mv linux/day1_commands R
+  200  cp  R/day1_commands linux/
+  201  cd Desktop/
+  202  ls
+  203  cd Icl
+  204  ls
+  205  pwd
+  206  cd Documents
+  207  cd
+  208  cd Latex
+  209  cd Desktop/Latex
+  210  LS
+  211  ls
+  212  cd Desktop/Icl/linux
+  213  grep "cd" day1_commands.txt
+  214  grep "cd" day1_commands
+  215  rm day1_commands
+  216  rm latex
+  217  touch day1_commands.txt
+  218  history >> day1_commands.txt
+  219  grep "cd"day1_commmands.txt
+  220  grep "cd" day1_commmands.txt
+  221  ls
+  222  grep "cd" day1_commands.txt
+  223  nano day2_commands.txt
+  224  less day2_commands.txt
+  225  echo "scripting is hard" >> day2_commands.txt
+  226  less day2_commands.txt
+  227  nano my script.sh
+  228  nano my_script.sh
+  229  bash  my_script.sh
+  230  nano bash_code.sh
+  231  bash bash_code.sh
+  232  cd R
+  233  cd ..
+  234  cd ¬ R
+  235  ls
+  236  cd R
+  237  cd Desktop/Icl/linux
+  238  cd
+  239  cd ~ lunix
+  240  cd Desktop/Icl/
+  241  ls
+  242  cd linux
+  243  cd /home/guest/Desktop/Icl/R
+  244  cd /home/guest/Desktop/Icl/linux
+  245  nano bash_code.sh
+  246  bash  bash_code.sh
+  247  nano bash_code.sh
+  248  bash  bash_code.sh
+  249  nano bash_code.sh
+  250  bash  bash_code.sh
+  251  nano bash_code.sh
+  252  bash  bash_code.sh
+  253  read --help
+  254  clear
+  255  cd Desktop/Icl/
+  256  cd linux
+  257  nano day2_bash.sh
+  258  .day2_bash.sh
+  259  . day2_bash.sh
+  260  nano day2_bash.sh
+  261  . day2_bash.sh
+  262  nano day2_bash.sh
+  263  . day2_bash.sh
+  264  nano day2_bash.sh
+  265  . day2_bash.sh
+  266  echo ${names2[1]}
+  267  echo ${names2[@]}
+  268  nano day2_bash.sh
+  269  . day2_bash.sh
+  270  nano day2_bash.sh
+  271  . day2_bash.sh
+  272  nano day2_bash.sh
+  273  . day2_bash.sh
+  274  nano day2_bash.sh
+  275  . day2_bash.sh
+  276  nano day2_bash.sh
+  277  . day2_bash.sh
+  278  nano day2_bash.sh
+  279  . day2_bash.sh
+  280  nano day2_bash.sh
+  281  . day2_bash.sh
+  282  nano day2_bash.sh
+  283  . day2_bash.sh
+  284  nano day2_bash.sh
+  285  . day2_bash.sh
+  286  nano day2_bash.sh
+  287  . day2_bash.sh
+  288  nano day2_bash.sh
+  289  . day2_bash.sh
+  290  nano day2_bash.sh
+  291  . day2_bash.sh
+  292  nano day2_bash.sh
+  293  cd Desktop/Icl/linux
+  294  . day2_bash.sh
+  295  nano day2_bash.sh
+  296  . day2_bash.sh
+  297  nano day2_bash.sh
+  298  . day2_bash.sh
+  299  nano day2_bash.sh
+  300  . day2_bash.sh
+  301  nano day2_bash.sh
+  302  . day2_bash.sh
+  303  nano day2_bash.sh
+  304  . day2_bash.sh
+  305  nano day2_bash.sh
+  306  . day2_bash.sh
+  307  nano day2_bash.sh
+  308  . day2_bash.sh
+  309  nano day2_bash.sh
+  310  . day2_bash.sh
+  311  nano day2_bash.sh
+  312  . day2_bash.sh
+  313  nano day2_bash.sh
+  314  . day2_bash.sh
+  315  nano day2_bash.sh
+  316  . day2_bash.sh
+  317  nano day2_bash.sh
+  318  . day2_bash.sh
+  319  nano day2_bash.sh
+  320  . day2_bash.sh
+  321  nano day2_bash.sh
+  322  . day2_bash.sh
+  323  nano day2_bash.sh
+  324  . day2_bash.sh
+  325  nano day2_bash.sh
+  326  . day2_bash.sh
+  327  nano day2_bash.sh
+  328  . day2_bash.sh
+  329  nano day2_bash.sh
+  330  . day2_bash.sh
+  331  nano day2_bash.sh
+  332  . day2_bash.sh
+  333  nano day2_bash.sh
+  334  . day2_bash.sh
+  335  nano day2_bash.sh
+  336  . day2_bash.sh
+  337  nano day2_bash.sh
+  338  . day2_bash.sh
+  339  nano day2_bash.sh
+  340  . day2_bash.sh
+  341  nano day2_bash.sh
+  342  . day2_bash.sh
+  343  nano day2_bash.sh
+  344  . day2_bash.sh
+  345  nano day2_bash.sh
+  346  . day2_bash.sh
+  347  nano day2_bash.sh
+  348  . day2_bash.sh
+  349  nano day2_bash.sh
+  350  . day2_bash.sh
+  351  nano day2_bash.sh
+  352  . day2_bash.sh
+  353  nano day2_bash.sh
+  354  . day2_bash.sh
+  355  nano day2_bash.sh
+  356  . day2_bash.sh
+  357  nano day2_bash.sh
+  358  . day2_bash.sh
+  359  nano day2_bash.sh
+  360  gedit day2_bash.sh
+  361  . day2_bash.sh
+  362  5
+  363  6
+  364  cd Desktop/Icl/linux
+  365  nano day2_bash.sh
+  366  . day2_bash.sh
+  367  nano day2_bash.sh
+  368  . day2_bash.sh
+  369  nano day2_bash.sh
+  370  cd Desktop/Icl/linux
+  371  ls
+  372  wc -l day2_bash.sh
+  373  less day2_bash.sh
+  374  head -n 5 day2_bash.sh
+  375  head -n -5 day2_bash.sh
+  376  x=4 echo $((x+2))
+  377  nano day2_bash.sh
+  378  x=4
+  379  echo $((x+2))
+  380  latex
+  381  latex --version
+  382  cd Latex
+  383  cd
+  384  cd Desktop/Icl/Latex
+  385  nano my_first_doc.tex
+  386  pdflatex my_first_doc.tex
+  387  nano my_first_doc.tex
+  388  open  my_first_doc.tex
+  389  nano my_first_doc.tex
+  390  pdflatex my_first_doc.tex
+  391  open  my_first_doc.tex
+  392  nano my_first_doc.tex
+  393  open  my_first_doc.tex
+  394  nano my_first_doc.tex
+  395  cd Desktop
+  396  ls
+  397  mkdir AY20252026
+  398  cd AY20252026
+  399  rmdir AY20252026
+  400  cd ..
+  401  rmdir AY20252026
+  402  ls
+  403  nano assignment1.sh
+  404  . assignment1.sh
+  405  ls
+  406  nano assignment1.sh
+  407  cd Desktop
+  408  nano assignment1.sh
+  409  . assignment1.sh
+  410  -p . assignment1.sh
+  411  cd ..
+  412  nano assignment1.sh
+  413  . assignment1.sh
+  414  cd ..
+  415  nano assignment1.sh
+  416  . assignment1.sh
+  417  ls
+  418  cd Desktop
+  419  ls
+  420  nano assignment1.sh
+  421  clear
+  422  cd
+  423  clear
+  424  cd Desktop
+  425  ls
+  426  nano assignment1.sh
+  427  compute_sums
+  428  nano assignment1.sh
+  429  . assignment1.sh
+  430  cd ..
+  431  nano assignment1.sh
+  432  gedit assignment1.sh
+  433  . assignment1.sh
+  434  nano assignment1.sh
+  435  . assignment1.sh
+  436  nano assignment1.sh
+  437  . assignment1.sh
+  438  nano assignment1.sh
+  439  . assignment1.sh
+  440  nano assignment1.sh
+  441  . assignment1.sh
+  442  nano assignment1.sh
+  443  . assignment1.sh
+  444  nano assignment1.sh
+  445  . assignment1.sh
+  446  nano assignment1.sh
+  447  cd Desktop
+  448  nano assignment1.sh
+  449  gedit assignment1.sh
+  450  . assignment1.sh
+  451  nano assignment1.sh
+  452  . assignment1.sh
+  453  nano assignment1.sh
+  454  . assignment1.sh
+  455  gedit assignment1.sh
+  456  . assignment1.sh
+  457  gedit assignment1.sh
+  458  . assignment1.sh
+  459  gedit assignment1.sh
+  460  . assignment1.sh
+  461  nano assignment1.sh
+  462  . assignment1.sh
+  463  nano assignment1.sh
+  464  gedit assignment1.sh
+  465  . assignment1.sh
+  466  gedit assignment1.sh
+  467  cd Desktop
+  468  nano assignment1.sh
+  469  . assignment1.sh
+  470  cd Desktop
+  471  cd ..
+  472  cd Desktop
+  473  nano assignment1.sh
+  474  gedit assignment1.sh
+  475  . assignment1.sh
+  476  nano assignment1.sh
+  477  . assignment1.sh
+  478  nano assignment1.sh
+  479  . assignment1.sh
+  480  nano assignment1.sh
+  481  . assignment1.sh
+  482  nano assignment1.sh
+  483  . assignment1.sh
+  484  nano assignment1.sh
+  485  . assignment1.sh
+  486  nano assignment1.sh
+  487  . assignment1.sh
+  488  gedit assignment1.sh
+  489  . assignment1.sh
+  490  nano assignment1.sh
+  491  gedit assignment1.sh
+  492  . assignment1.sh
+  493  gedit assignment1.sh
+  494  . assignment1.sh
+  495  gedit assignment1.sh
+  496  touth ass_try.sh
+  497  nano ass_try.sh
+  498  . ass_try.sh
+  499  nano ass_try.sh
+  500  nano assignment1.sh
+  501  . assignment1.sh
+  502  cd Desktop
+  503  nano assignment1.sh
+  504  y
+  505  . assignment1.sh
+  506  nano ass_try.sh
+  507  . ass_try.sh
+  508  nano ass_try.sh
+  509  head -n 1 student_info.csv | cat -A
+  510  nano ass_try.sh
+  511  . ass_try.sh
+  512  nano ass_try.sh
+  513  ls
+  514  . ass_try.sh
+  515  ls
+  516  nano ass_try.sh
+  517  . ass_try.sh
+  518  ls
+  519  nano ass_try.sh
+  520  . ass_try.sh
+  521  nano ass_try.sh
+  522  . ass_try.sh
+  523  nano ass_try.sh
+  524  . ass_try.sh
+  525  nano ass_try.sh
+  526  . ass_try.sh
+  527  nano ass_try.sh
+  528  . ass_try.sh
+  529  nano ass_try.sh
+  530  . ass_try.sh
+  531  nano ass_try.sh
+  532  nano assignment1.sh
+  533  ls
+  534  . assignment1.sh
+  535  nano assignment1.sh
+  536  nano ass_try.sh
+  537  . ass_try.sh
+  538  nano ass_try.sh
+  539  cd ..
+  540  nano ass_try.sh
+  541  nano assignment1.sh
+  542  nano ass_try.sh
+  543  . ass_try.sh
+  544  nano ass_try.sh
+  545  . ass_try.sh
+  546  ls 
+  547  nano ass_try.sh
+  548  . ass_try.sh
+  549  nano ass_try.sh
+  550  . ass_try.sh
+  551  cd AY20252026 
+  552  ls
+  553  nano ass_try.sh
+  554  cd ..
+  555  nano ass_try.sh
+  556  nano assignment1.sh
+  557  . assignment1.sh
+  558  nano assignment1.sh
+  559  . assignment1.sh
+  560  nano assignment1.sh
+  561  cd Desktop
+  562  ls
+  563  . assignment1.sh
+  564  cd AY20252026
+  565  ls
+  566  cd Regular
+  567  cd "Regular"
+  568  cd ..
+  569  ls
+  570  cd AY20252026
+  571  cd '"Regular"'
+  572  ls
+  573  cd ..
+  574  nano assignment1.sh
+  575  cd Desktop
+  576  . assignment1.sh
+  577  ls
+  578  cd AY20252026
+  579  cd '"Regular"'
+  580  cd Desktop
+  581  ls
+  582  nano alwia.babekir_ICL1.sh
+  583  . alwia.babekir_ICL1.sh
+  584  cd Desktop
+  585  . alwia.babekir_ICL1.sh
+  586  cd ..
+  587  cd Downloads
+  588  nano alwia.babekir_ICL1.sh
+  589  . alwia.babekir_ICL1.sh
+  590  R --version
+  591  cd Desktop/ICL
+  592  cd Desktop
+  593  ls
+  594  cd Icl
+  595  cd linux
+  596  edit day2_bash.sh
+  597  gedit day2_bash.sh
+  598  . day2_bash.sh
+  599  nano day2_bash.sh
+  600  cd Desktop/Icl/linux
+  601  nano day2_bash.sh
+  602  python
+  603  jupyter notebook
+  604  cd Desktop/python_course
+  605  ls
+  606  cd notebooks_lecture_notes
+  607  ls
+  608  jupyter notebook
+  609  man git
+  610  git-help
+  611  git-- help
+  612  git--help
+  613  git-help
+  614  man git
+  615  git -help
+  616  git --help
+  617  git help <clone>
+  618  git help<clone>
+  619  git --help
+  620  git help <clone>
+  621  git --help <clone>
+  622  git help clone
+  623  git help config
+  624  git help config --global
+  625  git help config
+  626  git config --global user.name "Alwia"
+  627  git config --global user.email "alwia.babekir@aims.ac.rw"
+  628  cd Desktop
+  629  mkdir simplestats
+  630  cd simplestats
+  631  git init
+  632  cd .git
+  633  ls -A
+  634  nano description
+  635  tree
+  636  git status
+  637  cd ..
+  638  git status
+  639  touch README.md
+  640  git status
+  641  git add README.md
+  642  ls
+  643  ls -A
+  644  git commit -am "This is the first commit. It adds a readme file."
+  645  ls
+  646  cd .git
+  647  ls
+  648  tree
+  649  cd ..
+  650  ls
+  651  git status
+  652  nano README.md
+  653  git diff
+  654  nano README.md
+  655  git diff
+  656  nano README.md
+  657  git diff
+  658  git diff --stat
+  659  git diff --path
+  660  git diff --../README.md
+  661  git diff --README.md
+  662  git diff HEAD --README.md
+  663  git diff --cached
+  664  git add .
+  665  git diff --cached
+  666  git log
+  667  git log -p
+  668  git log --stat
+  669  nano README.md
+  670  nano temp_notes.txt
+  671  ls
+  672  git add temp_notes.txt
+  673  git status
+  674  git reset temp_notes.txt
+  675  git status
+  676  nano README.md
+  677  git status
+  678  git checkout --README.md
+  679  nano README.md
+  680  git status
+  681  commit
+  682  git commit
+  683  git checkout --README.md
+  684  git commit -am "New line added to readme file"
+  685  git status
+  686  nano README.md
+  687  git status
+  688  git checkout --README.md
+  689  git status
+  690  git add README.me
+  691  git add README.md
+  692  git status
+  693  git checkout --README.md
+  694  git checkout -- README.md
+  695  nano README.md
+  696  git status
+  697  nano README.md
+  698  cd Desktop/simplestats
+  699  history > today_work.txt
